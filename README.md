@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ivanpaulovich/ivanpaulovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+You can reach me **@ivanpaulovich** on all major social networks about Clean Architecture.
 
-Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on Clean Architecture Manga.
-- 🌱 I’m currently learning React/Redux.
-- 🤔 I’m looking for help with Front End.
-- 💬 Ask me about Software Design.
-- 📫 How to reach me: @ivanpaulovich
-- ⚡ Fun fact: I enjoy kayaking.
+![Ivan Paulovich's github stats](https://github-readme-stats.vercel.app/api?username=ivanpaulovich&show_icons=true)
